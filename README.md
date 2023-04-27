@@ -64,7 +64,7 @@ After you're finished please remove all the comments and instructions!
 
 > Describe your project in 1 or 2 sentences.
 
-**[My_Proyect]** This is a webpage where there is a picture and I can learn about documentation and project submission.
+**My_Proyect** This is a webpage where there is a picture and I can learn about documentation and project submission.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -106,19 +106,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[Functionality]: Allows the user to perform a variety of tasks**
-- **[SocialMedia]: Includes a link to a GitHub repository and allows for the addition of more links.**
-- **[Customizability]: Enables the user to customize the background and other aspects of the application.**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [go to my GitHub and try it now](https://github.com/AztkMarty)
+- **Functionality: Allows the user to perform a variety of tasks**
+- **SocialMedia: Includes a link to a GitHub repository and allows for the addition of more links.**
+- **Customizability: Enables the user to customize the background and other aspects of the application.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -185,7 +175,7 @@ You can deploy this project using:
 
 - GitHub: [@githubhandle](https://github.com/AztkMarty)
 - Twitter: [@twitterhandle](https://twitter.com/MartinPineda)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/AztkMarty)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-mart%C3%ADn-pineda-ram%C3%ADrez-6183231b2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQR7hXZnUQMyJwPuBZXlFUA%3D%3D)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -255,7 +245,5 @@ I would like to thank to my partners for be coding side to side with me.
 ## 📝 License <a name="license"></a>
 
 This project is licensed under the Apache License 2.0. and any other open-source.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
