@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="https://github.com/profile-photo" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Microverse README Template</b></h3>
@@ -64,7 +64,7 @@ After you're finished please remove all the comments and instructions!
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**My_Proyect** This is a webpage where there is a picture and I can learn about documentation and project submission.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -73,9 +73,12 @@ After you're finished please remove all the comments and instructions!
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
-  <summary>Client</summary>
+  <summary>Technologies</summary>
   <ul>
     <li><a href="https://reactjs.org/">React.js</a></li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
   </ul>
 </details>
 
@@ -83,6 +86,9 @@ After you're finished please remove all the comments and instructions!
   <summary>Server</summary>
   <ul>
     <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li>GitHub</li>
+    <li>GitBash</li>
+    <li>Node.js</li>
   </ul>
 </details>
 
@@ -90,6 +96,7 @@ After you're finished please remove all the comments and instructions!
 <summary>Database</summary>
   <ul>
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li>"Unfortunately, this project did not require a database to be used."</li>
   </ul>
 </details>
 
@@ -99,19 +106,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
+- **Functionality: Allows the user to perform a variety of tasks**
+- **SocialMedia: Includes a link to a GitHub repository and allows for the addition of more links.**
+- **Customizability: Enables the user to customize the background and other aspects of the application.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,77 +122,46 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
+Before running the project, make sure you have the following software installed:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+Node.js (version 11.16.0 or higher)
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
 
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+Bash
+git clone https://github.com/your-username/your-project.git
+
+Navigate to your proyect directory
+-cd yourProyect-
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
+-npm install-
 
-```sh
-  cd my-project
-  gem install
-```
---->
+
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
+-npm start-
 
 ### Run tests
 
 To run tests, run the following command:
 
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
+-npm test-
 
 ### Deployment
 
 You can deploy this project using:
 
-<!--
-Example:
-
-```sh
-
-```
- -->
+-npm run build-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -205,17 +171,11 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Jose Martin Pineda**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/AztkMarty)
+- Twitter: [@twitterhandle](https://twitter.com/MartinPineda)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-mart%C3%ADn-pineda-ram%C3%ADrez-6183231b2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQR7hXZnUQMyJwPuBZXlFUA%3D%3D)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -225,9 +185,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Improved_pictures]**
+- [ ] **[With_links]**
+- [ ] **[More_data]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -238,6 +198,8 @@ Example:
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
+Create a new branch for your feature or bug fix.
+Make your changes and commit them
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -247,7 +209,8 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you find this project useful, please consider giving it a star on GitHub and sharing it with your network.
+Your support will help us to continue building.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -257,7 +220,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank to my partners for be coding side to side with me.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -267,13 +230,13 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **[How_to_contribute_thhis_proyect?]**
 
-  - [Answer_1]
+  - [You_can_do_it_in_https://github.com/AztkMarty]
 
-- **[Question_2]**
+- **[How_to_run_the_page?]**
 
-  - [Answer_2]
+  - [You_can_run_here_https://github.com/AztkMarty]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -281,8 +244,6 @@ I would like to thank...
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is licensed under the Apache License 2.0. and any other open-source.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
